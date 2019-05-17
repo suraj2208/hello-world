@@ -1,2 +1,1 @@
-# hello-world
-My first Repository
+print(Hello world!!!, It's just a way to say hi in python manner.. )
